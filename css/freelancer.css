@@ -160,7 +160,7 @@ section.success {
 
 header.masthead {
   padding-top: 100px;
-  padding-bottom: 50px;
+  padding-bottom: 100px;
   text-align: center;
   color: white;
   background: #18BC9C; }
@@ -177,7 +177,7 @@ header.masthead {
     font-size: 1.25em;
     font-weight: 300; }
 
-@media (min-width: 768px) {
+@media (min-width: 800px) {
   header.masthead {
     padding-top: 200px;
     padding-bottom: 100px; }
@@ -316,9 +316,7 @@ header.masthead {
     -moz-transition: top 0.3s ease, opacity 0.3s ease;
     -ms-transition: top 0.3s ease, opacity 0.3s ease;
     transition: top 0.3s ease, opacity 0.3s ease;
-    vertical-align: middle;
-    vertical-align: baseline;
-    opacity: 0; }
+        opacity: 0; }
   .floating-label-form-group:not(:first-child) {
     padding-left: 14px;
     border-left: 1px solid #eeeeee; }
@@ -448,3 +446,8 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
+
+
+
+
+  
