@@ -233,9 +233,9 @@ body::before, body::after {
   }
 }
 
-footer {
+/*footer {
   position: relative;
   height: 50%;
   background: #a09aa0;
   z-index: 2;
-}
+}*/
